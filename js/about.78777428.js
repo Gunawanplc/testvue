@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgitfolder"]=self["webpackChunkgitfolder"]||[]).push([[443],{833:function(n,t,e){e.r(t),e.d(t,{default:function(){return l}});var r=e(252);const u={class:"about"},a=(0,r._)("h1",null,"This is an about page",-1),s=[a];function i(n,t){return(0,r.wg)(),(0,r.iD)("div",u,s)}var c=e(744);const o={},f=(0,c.Z)(o,[["render",i]]);var l=f}}]);
+//# sourceMappingURL=about.78777428.js.map
